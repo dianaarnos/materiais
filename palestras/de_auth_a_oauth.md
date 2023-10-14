@@ -12,7 +12,7 @@ Acontece que todos esses conceitos são apenas abstrações do nosso dia-a-dia e
 Vamos ver rapidamente a relação entre AuthN e OAuth 2.0 e alguns dos principais elementos que compõe o que chamamos de Open Authorization - ou OAuth para os íntimos.  
 
 ## Slides
-[PDF](recursos/auth_oauth_simples_linuxtips_2023_compressed.pdf) | HTML (em breve)
+[PDF](https://github.com/dianaarnos/materiais/blob/main/palestras/recursos/auth_oauth_simples_linuxtips_2023_compressed.pdf) | HTML (em breve)
 
 ## Referências
 

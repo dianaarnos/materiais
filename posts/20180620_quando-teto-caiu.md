@@ -5,7 +5,6 @@ tags: lifestyle
 description: Eu raramente fico de mau humor. Raramente fico brava com algo ou fico frustrada. Não guardo mágoas nem de situações e nem de pessoas.Eu tenho amigos que ficam irritados comigo por eu não me irritar com (quase) nada.
 published: true
 ---
-<img class="img-fluid" src="/assets/img/teto.png">
 
 Eu raramente fico de mau humor. Raramente fico brava com algo ou fico frustrada. Não guardo mágoas nem de situações e nem de pessoas.
 
